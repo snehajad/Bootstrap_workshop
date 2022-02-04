@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(158, 238, 211);
+}
+p{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+.d{
+    background-color: black;
+    border: 5px solid black;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
